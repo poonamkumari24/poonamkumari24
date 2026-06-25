@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Poonam Kumari 👋
 
-<!--
-**poonamkumari24/poonamkumari24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* 🎓 B.Tech CSE Student
+* 💻 Aspiring Backend Developer
+* 🌱 Currently learning Java, JDBC, Servlets, JSP, MySQL, Maven, and Spring Boot
+* 🚀 Interested in building scalable web applications and REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Java
+* JDBC
+* MySQL
+* Servlets & JSP
+* Maven
+* Spring Boot
+* Git & GitHub
+* HTML, CSS, Bootstrap
+* Data Structures & Algorithms
+
+## Projects
+
+* ExamGrade Backend Project
+* HOMETOWN Web Landing page
+* Maars Web Landing page
+
+## Current Goals
+
+* Master Java Backend Development
+* Build Full-Stack Projects
+* Prepare for Software Engineering Internships
+* Strengthen DSA and Problem Solving Skills
+
+## Connect With Me
+
+* GitHub: github.com/poonamkumari24
+* Location: Punjab, India
